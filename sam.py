@@ -48,7 +48,7 @@ with right_column:
 
 with st.container():
     st.write("---")
-    st.write("BLACKPINK")
+    st.write("MY GIRL GROUP IDOL")
     st.write("##")
     image_column, text_column = st.columns((1,2))
 
