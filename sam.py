@@ -24,9 +24,9 @@ img_github = Image.open("images/aa.jpg")
  
 
 with st.container():
-    st.subheader('A Computer Engineer Students Blog')
-    st.title('Hi Im Samantha')
-    st.write('BSCPE 1B Student')
+    st.subheader('A Computer Engineer Student's Blog')
+    st.title('Hi I'm Samantha')
+    st.write('BSCPE 1-B Student')
     
 with st.container():
     st.write('---')
@@ -36,7 +36,7 @@ with st.container():
         st.write("##")
         st.write(
             """
-            I am a Computer Engineering Student, BSCPE 1-B and Im making a project with a contect of my girlgroup Idol.
+            I am a Computer Engineering Student, and I'm making a project with a contect of My Girlgroup Idol.
              
             """
         )
@@ -62,7 +62,7 @@ with text_column:
         There are 4 members in the group named Lisa Manoban, Jennie Kim, Rose, and Jisoo. 
         """     
         )
-    st.markdown("[watch the video...](https://www.facebook.com/reel/1410154259577343)")
+    st.markdown("[watch the video...](https://youtu.be/2S24-y0Ij3Y?feature=shared)")
 
 with st.container():
     st.write("---")
@@ -77,7 +77,7 @@ with text_column:
     st.subheader("Their Journey")
     st.write(
         """
-         This girl group is very famous to the International Music Industry. They have went through a lot of Challenges.
+         This girl group is very famous to the International Music Industry. They have went through a lot of Challenges. I Love them so much.
         """     
         )
     st.markdown("[watch the video...](https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2Fy8lal1cBHmM%3Fsi%3DZ5OI4La2NC5J5FbW%26fbclid%3DIwAR3YbDai2iPOwG3QqKtrd06izxSLCD1G7Xzf7QRkWl7ZMLUm4JjoDPM7YUA&h=AT2809mbR_WYcTyoxFrPRjaqRiitpncNvZ5wyo9WxSPCKqUNezHiailMQ-ht4CpQCk9LLbJhv7L6UJxQEcN7CN5GbogpBxkh7j6SWtq2ZQZWgVT707oErLolsMQ7RQVArAKO3Q)")
