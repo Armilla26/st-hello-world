@@ -66,7 +66,7 @@ with text_column:
 
 with st.container():
     st.write("---")
-    st.write("my project")
+    st.write("My project")
     st.write("##")
     image_column, text_column = st.columns((1,2))
 
